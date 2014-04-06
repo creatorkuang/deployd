@@ -1,3 +1,8 @@
+# deployd-token-auth V0.0.1
+## Warning 
+It's just for tesing, i did not test in production env.
+(Reference: http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+
 # deployd v0.6.11
 
 [![Build Status](https://secure.travis-ci.org/deployd/deployd.png)](http://travis-ci.org/deployd/deployd)
