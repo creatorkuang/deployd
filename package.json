@@ -1,10 +1,10 @@
 {
-  "author": "Ritchie Martori",
-  "name": "deployd",
-  "version": "0.6.11",
-  "description": "the simplest way to build realtime APIs for web and mobile apps",
+  "author": "Weipeng Kuang",
+  "name": "deployd-token",
+  "version": "0.0.1",
+  "description": "modify from deployd@0.6.11,origin author is Ritchie Martori.Deployd is  the simplest way to build realtime APIs for web and mobile apps",
   "repository": {
-    "url": "git://github.com/deployd/deployd.git"
+    "url": "git://github.com/creatorkuang/deployd.git"
   },
   "engines": {
     "node": ">= 0.8.0"
